@@ -1,4 +1,4 @@
-# [Peal](http://www.peal.com)
+# [Peal website](http://www.peal.space)
 
 Based on One Page Wonder, a basic one page template for Bootstrap created by Start Bootstrap.
 
