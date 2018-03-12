@@ -1,4 +1,4 @@
-# [Peal website](www.peal.space)
+# [Peal website](pangrus.github.io)
 
 Based on One Page Wonder, a basic one page template for Bootstrap created by Start Bootstrap.
 
