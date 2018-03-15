@@ -84,10 +84,10 @@ img::-moz-selection{
     color:#212529
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover,#mainNav .navbar-nav>li.nav-item>a.nav-link:hover{
-    color:#820000
+    color:#212529
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active{
-    color:#820000!important;
+    color:#212529!important;
     background-color:transparent
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active:hover{
