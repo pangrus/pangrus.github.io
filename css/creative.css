@@ -87,7 +87,7 @@ img::-moz-selection{
     color:#820000
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active{
-    color:#ffffff!important;
+    color:#820000!important;
     background-color:transparent
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active:hover{
