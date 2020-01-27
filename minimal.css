@@ -4,13 +4,12 @@
     box-sizing: border-box;
     font-style: normal
 }
-
 body {
     margin: 0 auto;
-    padding: 2em 2em 2em 2em;
+    padding: 3.3em 1.6em;
     max-width: 64ch;
     font: 20px/1.6 sans-serif;
-    background: #ffffff
+    background: #fff
 }
 
 body, a {
