@@ -1,5 +1,10 @@
 # [Peal website](http://www.peal.space)
 
-Based on One Page Wonder, a basic one page template.
+Pangrus' electro acoustic lab website
 
-Code released under the MIT license.
+Written in HTML/CSS.
+Styled accordingly to rules of [brutalist web design](http://www.peal.space).
+
+
+
+
