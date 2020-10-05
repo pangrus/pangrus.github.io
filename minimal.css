@@ -18,13 +18,9 @@ body {
 }
 
 a {
-    font-weight: 500
-}
-
-a,abbr {
+    font-weight: 550;
     text-decoration: none
 }
-
 
 h1 {
     font: 1.4em/1.4 sans-serif;
