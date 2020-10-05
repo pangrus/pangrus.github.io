@@ -5,13 +5,13 @@
 	box-sizing: border-box
 }
 
-body,header,main {
+body,main {
 	display: grid;
 	grid-gap: 1em
 }
 
 body {
-	background-color: #eef;
+	background-color: #fff;
 	font: 18px/1.62 sans-serif;
 	margin: auto;
 	padding: 1em;
