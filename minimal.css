@@ -58,6 +58,8 @@ h2,h3,h4 {
 }
 
 img {
+    display: block;
+    margin: 0 auto;
     width: 50%;
     height: auto;
 }
