@@ -1,50 +1,67 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-style: normal
+	margin: 0;
+	padding: 0;
+	color: #000;
+	box-sizing: border-box
 }
+
+body,header,main {
+	display: grid;
+	grid-gap: 1em
+}
+
 body {
-    margin: 0 auto;
-    padding: 1em 1em 1em 1em;
-    max-width: 64ch;
-    font: 18px/1.4 sans-serif;
-    background: #aaa;
-    color: #000
+	background-color: #bbb;
+	font: 18px/1.62 sans-serif;
+	margin: auto;
+	padding: 1em;
+	max-width: 70ch
+}
+
+header {
+	text-align: center
 }
 
 ::selection,a:hover,a:hover * {
-    color: #fff
+	color: #fff
 }
 
 a {
-    text-decoration: none
+	font-weight: 600;
+	text-decoration: none
 }
 
 h1 {
-    font: 1.4em/1.4 sans-serif;
-    text-align: center;
-    padding-bottom: 1em
+	font: 1.4em/1.4 sans-serif;
+	text-align: center;
+	padding-bottom: 1em
 }
+
 h2 {
-    font: 1em/1.4 sans-serif;
-    padding: 2em 0em 1em 0em;
- }
+	font: 1em/1.4 sans-serif;
+	padding: 2em 0em 1em 0em;
+}
+
 img {
-    display: block;
-    margin: 0 auto;
-    width: 55%
+	display: block;
+	margin: 0 auto;
+	width: 50%;
+	height: auto;
 }
+
 footer {
-    border-top: 1.5px solid;
-    clear: both
+	border-top: 1.5px solid;
+	clear: both
 }
-.foot{
-    text-align:center;
-    }
+
+.foot {
+	text-align: center;
+}
+
 footer img {
-    width: 35px;
+	width: 35px;
 }
-footer > *{
-    display: inline-block;
+
+footer > * {
+	display: inline-block;
 }
