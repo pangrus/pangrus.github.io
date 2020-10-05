@@ -23,7 +23,7 @@ header {
 }
 
 ::selection,a:hover,a:hover * {
-	color: #fff
+	color: #00f
 }
 
 a {
