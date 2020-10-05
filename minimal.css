@@ -17,6 +17,15 @@ body {
     color: #fff
 }
 
+a {
+    font-weight: 600
+}
+
+a,abbr {
+    text-decoration: none
+}
+
+
 h1 {
     font: 1.4em/1.4 sans-serif;
     text-align: center;
