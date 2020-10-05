@@ -22,10 +22,6 @@ header {
 	text-align: center
 }
 
-::selection,a:hover,a:hover * {
-
-}
-
 a {
 	color: #3366BB;
 	text-decoration: none;
