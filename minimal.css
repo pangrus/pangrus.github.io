@@ -7,7 +7,7 @@
 
 body,header,main {
     display: grid;
-    grid-gap: 3em
+    grid-gap: 2em
 }
 
 main {
@@ -30,14 +30,6 @@ header {
     color: #fff
 }
 
-.k {
-    border: 1px solid;
-    padding: 0 3px
-}
-
-.s {
-    font-size: .8em
-}
 
 a {
     font-weight: 600
@@ -69,62 +61,28 @@ h2,h3,h4 {
 }
 
 img,svg {
-    width: 100%
-}
-
-img {
+    width: 50%;
     height: auto;
     border: 5px solid #fff
 }
 
-.p {
-    image-rendering: crisp-edges
+
+
+
+
+
+
+footer {
+    border-top: 1.5px solid;
+    clear: both
+}
+.foot{
+    text-align:center;
+    }
+footer img {
+    width: 35px;
+}
+footer > *{
+    display: inline-block;
 }
 
-.c,svg {
-    display: block
-}
-
-.c {
-    overflow-x: auto;
-    white-space: pre
-}
-
-.b {
-    padding: 1em
-}
-
-sub,sup {
-    vertical-align: baseline;
-    font-size: inherit
-}
-
-sub {
-    font-variant-position: sub
-}
-
-sup {
-    font-variant-position: super
-}
-
-abbr,mi:hover,var:hover {
-    cursor: help
-}
-
-svg {
-    stroke: #111;
-    stroke-width: 2px;
-    fill: none
-}
-
-line {
-    vector-effect: non-scaling-stroke
-}
-
-ul {
-    list-style-type: circle
-}
-
-dd {
-    margin-left: 1em
-}
