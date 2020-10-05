@@ -23,12 +23,10 @@ header {
 }
 
 ::selection,a:hover,a:hover * {
-	color: #00f
 }
 
 a {
 	font-weight: 600;
-	text-decoration: none
 }
 
 h1 {
