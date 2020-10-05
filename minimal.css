@@ -23,6 +23,15 @@ header {
 }
 
 
+a {
+    color: inherit;
+    text-decoration-color: #79707f;
+}
+
+a:hover {
+    color: #8a858f;
+}
+
 
 h1 {
 	font: 1.4em/1.4 sans-serif;
