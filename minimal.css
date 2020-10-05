@@ -7,15 +7,11 @@
 
 body,header,main {
     display: grid;
-    grid-gap: 2em
-}
-
-main {
     grid-gap: 1em
 }
 
 body {
-    background-color: #aaa;
+    background-color: #caa;
     font: 18px/1.62 sans-serif;
     margin: auto;
     padding: 1em;
