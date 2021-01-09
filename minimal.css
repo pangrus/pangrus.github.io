@@ -11,10 +11,11 @@ body,main {
 
 body {
     background-color: #fff;
-    font: 18px/1.62 sans-serif;
+    color: #333333;
+    font: 0.7rem monospace;
     margin: auto;
-    padding: 1em;
-    max-width: 70ch;
+    padding: 2rem;
+    max-width: 48rem;
 }
 
 header {
@@ -22,24 +23,23 @@ header {
 }
 
 a {
-    text-decoration: none;
-    font-weight: 555;
-    color: #0645AD;
+  color: #0645AD;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  background-color: #0645AD;
+  color: #dddddd;
+  text-decoration: none;
 }
 
 h1 {
-    font: 1.4em/1.4 sans-serif;
     text-align: center;
-    padding-bottom: 1em;
+    padding-bottom: 1rem;
 }
 
 h2 {
-    font: 1em/1.4 sans-serif;
-    padding: 2em 0em 1em 0em;
+    padding: 2.5rem 1rem 1rem 0rem;
 }
 
 img {
@@ -50,7 +50,7 @@ img {
 }
 
 footer {
-    border-top: 1.5px solid;
+    border-top: 0.1rem solid;
     clear: both;
 }
 
@@ -59,7 +59,7 @@ footer {
 }
 
 footer img {
-    width: 35px;
+    width: 2rem;
 }
 
 footer > * {
