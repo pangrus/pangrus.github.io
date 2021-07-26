@@ -11,10 +11,10 @@ body,main {
 
 body {
     background-color: #fff;
-    color: #333333;
+    color: #000;
     font: 0.7rem monospace;
     margin: auto;
-    padding: 2rem;
+    padding: 1rem;
     max-width: 48rem;
 }
 
@@ -29,28 +29,29 @@ a {
 
 a:hover {
   background-color: #0066cc;
-  color: #dddddd;
+  color: #fff;
   text-decoration: none;
 }
 
 h1 {
     text-align: center;
-    padding-bottom: 1rem;
+    padding: 1rem;
 }
 
 h2 {
-    padding: 2.5rem 1rem 1rem 0rem;
+    border: 0.1rem solid;
+    border-radius:1rem;
+    padding: 1rem;
 }
 
 img {
     display: block;
-    margin: 0 auto;
-    width: 60%;
-    height: auto;
+    margin: auto;
+    border-radius:2rem;
+    padding:1rem;
 }
 
 footer {
-    border-top: 0.1rem solid;
     clear: both;
 }
 
@@ -60,9 +61,11 @@ footer {
 
 footer img {
     width: 2rem;
+    padding:0;
 }
 
 footer > * {
     display: inline-block;
 }
  
+
