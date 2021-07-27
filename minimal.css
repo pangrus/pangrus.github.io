@@ -19,12 +19,10 @@
 }
  a {
      color: #0645AD;
-     text-decoration: none;
 }
  a:hover {
      background-color: #0066cc;
      color: #fff;
-     text-decoration: none;
 }
  h1 {
      text-align: center;
@@ -35,11 +33,6 @@
      border-radius:1rem;
      padding: 1rem;
 }
- .testo{
-     font: 0.7rem monospace;
-     padding: 1rem;
-}
-
  img {
      display: block;
      margin: auto;
