@@ -39,7 +39,7 @@
      border-radius:2rem;
      padding:1rem;
      max-width: 80%;
-     max-height: auto; 
+     height: auto; 
 }
  footer {
      clear: both;
