@@ -36,9 +36,10 @@
  img {
      display: block;
      margin: auto;
-     max-width: 80%;   
      border-radius:2rem;
      padding:1rem;
+     max-width: 80%;
+     max-height: auto; 
 }
  footer {
      clear: both;
