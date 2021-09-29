@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="peal website">   
+    <meta name="description" content="peal website">
     <meta name="author" content="pangrus">
     <title>Pangrus' electro acoustic lab</title>
     <link rel="stylesheet" type="text/css" href="minimal.css">
@@ -16,40 +16,41 @@
         <a href='index.html'><img src="img/png/avatar.png" alt="Home"></a>
     </header>
     <section id="projects">
-        <h2>As a self-taught musician I play with various <a href="gear.html">gear</a>. In 2007 I started to build my own instruments. 
-        <br>In this page you can find a list of the hardware projects I've developed so far. I make <a href="workshops.html">workshops</a>, teaching people how to build and use them. 
+        <h2>As a self-taught musician I play with various <a href="gear.html">gear</a>. In 2007 I started to build my own instruments.
+            <br>In this page you can find the hardware projects I've developed so far. I make <a href="workshops.html">workshops</a>, teaching people how to build and use them.
         </h2>
         <h3>
+            <b>MULTI</b> is a shield for the Seeeduino Xiao, a board carryng the powerful microcontroller ATSAMD21G18A-MU. The board has MIDI I/O on DIN connectors and USB, six potentiometers, two pushbuttons and an audio output. It's a multi-purpose board and can be used in various ways: full programmable MIDI controller, MIDI USB to MIDI DIN converter, autogenerative sequencer, MIDI synched bytebeat generator are the software I've written so far.
+            <img class="img-fluid" src="img/multi.jpg" alt="multi">
+        </h3>
+        <br>
+        <h3>
             <a target="_blank" href="https://github.com/pangrus/bebe">
-                bebe</a> is a two oscillators sound generator with a 5 steps gate sequencer/lfo. Sound generation comes from a 4093 CMOS chip and the sequencer is implemented on an ATtiny84 MCU.
+                BEBE</a> is a two oscillators sound generator with a 5 steps gate sequencer/LFO. Sound generation comes from a 4093 CMOS chip and the sequencer is implemented on an ATtiny84 MCU. It's eurorack compatible, the two oscillators have CV/GATE inputs and the sequencer generate a clock out (hackable as clock in) and two gate outputs.
 
-        <img class="img-fluid" src="img/bebe.jpg" alt="bebe">
+            <img class="img-fluid" src="img/bebe.jpg" alt="bebe">
         </h3>
         <br>
         <h3>
             <a target="_blank" href="https://github.com/pangrus/bpd">
-                bpd</a>
-             is a three oscillators voice for eurorack systems.
-        <img class="img-fluid" src="img/bpd.jpg" alt="bpd">
+                BPD</a> is a three cross modulated oscillators voice for eurorack systems. The sound palette of this circuit is wide, it can produce throbbling basses as well as white noise. The circuit was originally implemented for the harsh side of Dr.Jekyll & Mr.Hide. BPD has also a CV input that influences the timbre and the sound dynamic.
+            <img class="img-fluid" src="img/bpd.jpg" alt="bpd">
         </h3>
         <br>
         <h3>
             <a target="_blank" href="https://github.com/pangrus/HSE-Hidden_Sound_Explorer">
-                Hidden sound explorer</a>
-
-            is a circuit that allows to amplify small voltages coming from piezo-electric
-            transducers or from coils.
-        <img src="img/hse.jpg" alt="hidden sound explorer">
+                HIDDEN SOUND EXPLORER</a> is a circuit that allows to amplify small voltages coming from piezo-electric transducers or from coils. It allows to scope out the electromagnetic fields produced by power supplies, electric motors, smartphones...whatever. Any electromagnetic source will produce a distinct sound.
+            <img src="img/hse2.jpg" alt="hidden sound explorer">
         </h3>
         <br>
-
         <h3>
             <a target="_blank" href="https://github.com/pangrus/ATtiny_Multiboard">
                 ATtiny multiboard</a> is a printed circuit board hosting an ATtiny85 micro controller unit, two potentiometers, the components to allow audio generation and a led.
-                <br>The Attiny85 can be programmed by using the Arduino integrated development enviroment.
-        <img src="img/attiny_multiboard.jpg" alt="ATtiny multiboard">
+            <br>The Attiny85 can be programmed by using the Arduino integrated development enviroment.
+            <img src="img/attiny_multiboard.jpg" alt="ATtiny multiboard">
         </h3>
         <br>
     </section>
 </body>
+
 </html>
