@@ -9,10 +9,9 @@
 }
  body {
      background-color: #fff;
+     font: 1rem monospace;
      margin: auto;
      max-width: 38rem;
-    font-family: monospace,monospace;
-    font-size: 1rem
 }
  header {
      text-align: center;
@@ -24,7 +23,7 @@
      background-color: #0066cc;
      color: #fff;
 }
- h3 {
+ h1 {
      text-align: center;
      padding: 1rem;
 }
@@ -41,8 +40,9 @@
      display: block;
      border-radius: 1.5rem;
      padding: 1rem;
+
      margin: auto;
-     max-width:400px;     
+     max-width: 80%;
      height: auto; 
 }
  footer {
@@ -52,7 +52,7 @@
      text-align: center;
 }
  footer img {
-
+     width: 3rem;
      padding:0;
 }
  footer > * {
