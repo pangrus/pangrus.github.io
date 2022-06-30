@@ -19,9 +19,6 @@ header {
   flex-wrap: wrap;
   width: 100%;
 }
-nav{
-     padding-top: 4rem;
-}
 a {
      color: #0645AD;
 }
