@@ -19,9 +19,6 @@ header {
   flex-wrap: wrap;
   width: 100%;
 }
-a {
-  color: #0645ad;
-}
 h2 {
   padding: 1rem;
 }
@@ -36,8 +33,6 @@ h4 {
   border-radius: 0.5rem;
   padding: 1.5rem;
 }
-
-
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
@@ -69,9 +64,6 @@ h4 {
 .grid .description{
 padding:0rem 3.5rem 1rem;
 }
-
-
-
 img {
   display: block;
   border-radius: 1.5rem;
