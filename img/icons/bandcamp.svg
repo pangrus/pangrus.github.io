@@ -8,13 +8,27 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 40 40"
-   height="40"
-   width="40"
-   xml:space="preserve"
-   id="svg2"
    version="1.1"
+   id="svg4"
    sodipodi:docname="bandcamp.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"><sodipodi:namedview
+   width="40"
+   height="40"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -23,60 +37,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1916"
+     inkscape:window-width="1918"
      inkscape:window-height="1030"
-     id="namedview23"
+     id="namedview6"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.2260742"
-     inkscape:cx="342.55676"
-     inkscape:cy="276.08442"
+     inkscape:zoom="1.6191406"
+     inkscape:cx="136.2123"
+     inkscape:cy="248"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" /><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs6"><clipPath
-       id="clipPath20"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path18"
-         d="M 2560,0 C 3973.85,0 5120,1146.15 5120,2560 5120,3973.85 3973.85,5120 2560,5120 1146.15,5120 0,3973.85 0,2560 0,1146.15 1146.15,0 2560,0 Z" /></clipPath><clipPath
-       id="clipPath26"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path24"
-         d="M 0,0 H 5120 V 5120 H 0 Z" /></clipPath><clipPath
-       id="clipPath36"
-       clipPathUnits="userSpaceOnUse"><path
-         style="clip-rule:evenodd"
-         id="path34"
-         d="M 3057.78,1754.95 H 1189.97 l 872.23,1610.1 h 1867.83 l -872.25,-1610.1" /></clipPath><clipPath
-       id="clipPath42"
-       clipPathUnits="userSpaceOnUse"><path
-         id="path40"
-         d="M 0,0 H 5120 V 5120 H 0 Z" /></clipPath></defs><g
-     transform="matrix(0.078125,0,0,-0.078125,0,40)"
-     id="g10"><g
-       transform="scale(0.1)"
-       id="g12"><g
-         id="g14"><g
-           clip-path="url(#clipPath20)"
-           id="g16"><g
-             clip-path="url(#clipPath26)"
-             id="g22"><path
-               id="path28"
-               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="M 0,0 H 5170 V 5170 H 0 Z" /></g></g></g><g
-         id="g30"><g
-           clip-path="url(#clipPath36)"
-           id="g32"><g
-             clip-path="url(#clipPath42)"
-             id="g38"><path
-               id="path44"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 1139.97,1704.95 h 2840.06 v 1710.1 H 1139.97 Z" /></g></g></g></g></g></svg>
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 20,0 C 8.951613,0 0,8.951613 0,20 0,31.048387 8.951613,40 20,40 31.048387,40 40,31.048387 40,20 40,8.951613 31.048387,0 20,0 Z m 3.887097,26.298387 H 9.290323 l 6.830645,-12.58871 h 14.596774 z"
+     id="path2"
+     style="stroke-width:0.0806452" />
+</svg>
