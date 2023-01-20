@@ -3,4 +3,3 @@
 Written in HTML/CSS, with a text editor.    
 Keep it simple and it will last forever.    
 Performance is a feature.
-      Cancel changes
