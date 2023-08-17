@@ -3,10 +3,9 @@ body {
     max-width: 38rem;
     padding: 0 1rem;
     font-size: 1rem;
-    font-family: Ubuntu, sans-serif;
-    line-height: 1.4;
+    font-family: sans-serif;
+    
 }
-
 nav a {
     text-decoration: none;
     background: #eee;
@@ -14,27 +13,18 @@ nav a {
     display: inline-flex;
     padding: 0.2rem;
 }
-
 a {
     text-decoration: none;
 }
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h3,h4,h5,h6 {
     font-family: sans-serif;
 }
-
 img {
+    padding: 0.5rem 1rem 0rem 0rem;
+    max-width: 80%;
     display: block;
-    border-radius: 1.5rem;
-    padding: 0.3rem;
-    max-width: 66%;
+    margin: auto;
 }
-
 footer {
     display: inline-flex;
 }
