@@ -20,7 +20,7 @@ h3,h4,h5,h6 {
     font-family: sans-serif;
 }
 img {
-    padding: 0.5rem 1rem 0rem 0rem;
+    padding: 0.5rem 1rem 1rem 0rem;
     max-width: 80%;
     display: block;
     margin: auto;
