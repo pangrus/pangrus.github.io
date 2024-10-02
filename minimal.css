@@ -25,6 +25,11 @@ img {
     display: block;
     margin: auto;
 }
+hr {
+    height: 1px;
+    background-color: #000;
+    border:none
+}
 footer {
     display: inline-flex;
 }
