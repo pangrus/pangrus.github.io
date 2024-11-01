@@ -4,17 +4,17 @@ body {
     padding: 0 1rem;
     font-size: 1rem;
     font-family: sans-serif;
-    background-color: #ff8000
+    background-color: #ffffff
 }
 nav a {
-    background-color: #000;
-    color: #eeeeee;
+    text-decoration: none;
+    background-color: #eeeeff;
     border-radius: 0.5rem;
     display: inline-flex;
     padding: 0.2rem;
 }
 a {
-    color: #000;
+    text-decoration: none;
 }
 h3,h4,h5,h6 {
     font-family: sans-serif;
